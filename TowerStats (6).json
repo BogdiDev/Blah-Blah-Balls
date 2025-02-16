@@ -10449,7 +10449,7 @@
         ]
     },
     "The Mimic": {
-        "Type": "Slash",
+        "Type": "Splash",
         "Image": "rbxassetid://108843809969916",
         "Rarity": "Secret",
         "PlacePrice": 16000,
@@ -10465,7 +10465,7 @@
                 "Price": 0,
                 "Range": 24,
                 "Damage": 13500,
-                "Cooldown": 2.3
+                "Cooldown": 0.1
             },
             {
                 "Price": 20000,
