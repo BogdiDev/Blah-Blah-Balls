@@ -38,6 +38,45 @@
             }
         ]
     },
+    "HyperDjano": {
+        "Type": "Single",
+        "Image": "rbxassetid://82903985916398",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 7000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 7500,
+                "Cooldown": 0.55
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 8000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
