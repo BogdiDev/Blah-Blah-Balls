@@ -2621,7 +2621,7 @@
         ]
     },
     "Scott": {
-        "Type": "Splash",
+        "Type": "Explosion",
         "Image": "rbxassetid://18864498819",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -10504,7 +10504,7 @@
                 "Price": 0,
                 "Range": 24,
                 "Damage": 13500,
-                "Cooldown": 0.1
+                "Cooldown": 2
             },
             {
                 "Price": 20000,
