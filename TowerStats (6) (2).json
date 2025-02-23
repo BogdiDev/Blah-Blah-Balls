@@ -2401,14 +2401,14 @@
                 "Range": 16,
                 "Damage": 95,
                 "Cooldown": 0.25,
-                "SummonTime": 15,
+                "SummonTime": 25,
                 "Health": 200,
                 "WalkSpeed": 8,
-                "Amount": 5,
+                "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 24,
-                "SummonDamage": 50,
+                "SummonDamage": 100,
                 "SummonCooldown": 0.25
             },
             {
@@ -2416,14 +2416,14 @@
                 "Range": 18,
                 "Damage": 120,
                 "Cooldown": 0.25,
-                "SummonTime": 15,
+                "SummonTime": 25,
                 "Health": 300,
                 "WalkSpeed": 8,
-                "Amount": 5,
+                "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 26,
-                "SummonDamage": 75,
+                "SummonDamage": 115,
                 "SummonCooldown": 0.25
             },
             {
@@ -2431,14 +2431,14 @@
                 "Range": 24,
                 "Damage": 150,
                 "Cooldown": 0.25,
-                "SummonTime": 15,
+                "SummonTime": 25,
                 "Health": 400,
                 "WalkSpeed": 9,
-                "Amount": 5,
+                "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 34,
-                "SummonDamage": 100,
+                "SummonDamage": 140,
                 "SummonCooldown": 0.25
             },
             {
@@ -2449,11 +2449,11 @@
                 "SummonTime": 15,
                 "Health": 550,
                 "WalkSpeed": 10,
-                "Amount": 5,
+                "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 35,
-                "SummonDamage": 135,
+                "SummonDamage": 170,
                 "SummonCooldown": 0.2
             }
         ]
