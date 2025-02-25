@@ -39,12 +39,12 @@
         ]
     },
     "BogdiGoat": {
-        "Type": "Explosion",
+        "Type": "Single",
         "Image": "rbxassetid://71927409454279",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Max": 2,
-        "Offset": 0.7,
+        "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
