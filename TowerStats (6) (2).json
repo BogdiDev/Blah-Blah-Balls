@@ -38,6 +38,45 @@
             }
         ]
     },
+    "BogdiGoat": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://71927409454279",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 7000,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 27500,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 9500,
+                "Cooldown": 0.8
+            }
+        ]
+    },
     "HyperDjano": {
         "Type": "Single",
         "Image": "rbxassetid://82903985916398",
