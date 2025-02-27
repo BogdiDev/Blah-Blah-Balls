@@ -42,7 +42,7 @@
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 1500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -54,30 +54,30 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10000,
+                "Damage": 750,
                 "Cooldown": 4,
-                "Farm": 10000
+                "Farm": 750
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 15000,
                 "Cooldown": 4,
-                "Farm": 15000
+                "Farm": 1000
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 20000,
                 "Cooldown": 4,
-                "Farm": 20000
+                "Farm": 1350
             },
             {
                 "Price": 3000,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 1700,
                 "Cooldown": 4,
-                "Farm": 25000
+                "Farm": 1700
             }
         ]
     },
