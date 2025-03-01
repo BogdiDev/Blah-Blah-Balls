@@ -3300,7 +3300,7 @@
         ]
     },
     "Endo 04": {
-        "Type": "Cone AOE Burn",
+        "Type": "Cone AOE Poison",
         "Image": "rbxassetid://18989232497",
         "Rarity": "Secret",
         "PlacePrice": 3000,
