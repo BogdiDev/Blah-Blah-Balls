@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Reddish Nightmare Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://72605925668884",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 16,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 27500,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 35000,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 1
+            }
+        ]
+    },
    "Chica Arcade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
